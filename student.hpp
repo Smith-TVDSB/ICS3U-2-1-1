@@ -8,9 +8,9 @@ using namespace std;
 // implementations
 
 //Replace string function
-string replace(string sentence, string word, string replacingWord)
+bool ageChecker(int age)
 {
-	return "0"; // TODO: fix
+	return 0; // TODO: fix
 }
 
 
